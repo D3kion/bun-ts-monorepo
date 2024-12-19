@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "christian-kohler.npm-intellisense",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "oven.bun-vscode"
+  ]
+}
